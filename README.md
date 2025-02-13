@@ -1,4 +1,10 @@
-## Hi there 👋
+# ✨ Iván ✨
+
+![Banner](img/banner.jpg)
+
+Estudiante de Ingeniería Informática, terminando los trámites del itinerario 1 para poder iterar a la siguiente fase de mi vida.
+
+---
 
 <!--
 **dvorak3/dvorak3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
